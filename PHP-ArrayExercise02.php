@@ -3,7 +3,7 @@
 <head>
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1">
-     <title></title>
+     <title>PHP Array Exercises 02</title>
 </head>
 <body>
      <h2>"PHP script to count a total number of duplicate elements in an array" </h2>
